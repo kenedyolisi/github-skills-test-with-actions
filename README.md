@@ -37,7 +37,6 @@ To upload artifacts to the artifact storage, we can use an action built by GitHu
      runs-on: ubuntu-latest
      steps:
        - uses: actions/checkout@v4
-
        - name: Run markdown lint
          run: |
            npm install remark-cli remark-preset-lint-consistent
