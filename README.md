@@ -13,6 +13,8 @@
 
 [![Step 2, Fix the test](https://github.com/kenedyolisi/github-skills-test-with-actions/actions/workflows/2-fix-the-test.yml/badge.svg)](https://github.com/kenedyolisi/github-skills-test-with-actions/actions/workflows/2-fix-the-test.yml)
 
+[![Step 3, Upload test reports](https://github.com/kenedyolisi/github-skills-test-with-actions/actions/workflows/3-upload-test-reports.yml/badge.svg)](https://github.com/kenedyolisi/github-skills-test-with-actions/actions/workflows/3-upload-test-reports.yml)
+
 # Test with Actions
 
 _Create workflows that enable you to use Continuous Integration (CI) for your projects._
