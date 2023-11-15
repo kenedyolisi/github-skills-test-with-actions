@@ -17,6 +17,8 @@
 
 [![Step 4, Add branch protections](https://github.com/kenedyolisi/github-skills-test-with-actions/actions/workflows/4-add-branch-protections.yml/badge.svg)](https://github.com/kenedyolisi/github-skills-test-with-actions/actions/workflows/4-add-branch-protections.yml)
 
+[![Step 5, Merge your pull request](https://github.com/kenedyolisi/github-skills-test-with-actions/actions/workflows/5-merge-your-pull-request.yml/badge.svg)](https://github.com/kenedyolisi/github-skills-test-with-actions/actions/workflows/5-merge-your-pull-request.yml)
+
 # Test with Actions
 
 _Create workflows that enable you to use Continuous Integration (CI) for your projects._
