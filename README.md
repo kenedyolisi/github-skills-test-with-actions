@@ -15,6 +15,8 @@
 
 [![Step 3, Upload test reports](https://github.com/kenedyolisi/github-skills-test-with-actions/actions/workflows/3-upload-test-reports.yml/badge.svg)](https://github.com/kenedyolisi/github-skills-test-with-actions/actions/workflows/3-upload-test-reports.yml)
 
+[![Step 4, Add branch protections](https://github.com/kenedyolisi/github-skills-test-with-actions/actions/workflows/4-add-branch-protections.yml/badge.svg)](https://github.com/kenedyolisi/github-skills-test-with-actions/actions/workflows/4-add-branch-protections.yml)
+
 # Test with Actions
 
 _Create workflows that enable you to use Continuous Integration (CI) for your projects._
