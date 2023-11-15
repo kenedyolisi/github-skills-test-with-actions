@@ -9,6 +9,8 @@
 
 [![Step 0, Welcome](https://github.com/kenedyolisi/github-skills-test-with-actions/actions/workflows/0-welcome.yml/badge.svg)](https://github.com/kenedyolisi/github-skills-test-with-actions/actions/workflows/0-welcome.yml)
 
+[![Step 1, Add a test workflow](https://github.com/kenedyolisi/github-skills-test-with-actions/actions/workflows/1-add-a-test-workflow.yml/badge.svg)](https://github.com/kenedyolisi/github-skills-test-with-actions/actions/workflows/1-add-a-test-workflow.yml)
+
 # Test with Actions
 
 _Create workflows that enable you to use Continuous Integration (CI) for your projects._
